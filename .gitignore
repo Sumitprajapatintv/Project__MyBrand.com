@@ -1,0 +1,7 @@
+node_modules/
+
+.env
+
+PORT=8080
+MONGO_URL=mongodb+srv://Sumitkp:Sumitkp@cluster0.6efsqil.mongodb.net/ecommerce
+JWT_SECRET=HFJSDNBSHSHAUIFAKNFVKAJ
